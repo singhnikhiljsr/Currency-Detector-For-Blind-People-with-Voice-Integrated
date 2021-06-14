@@ -1,0 +1,6 @@
+10 Rupees
+500 Rupees
+2000 Rupees
+Not A Currency
+100 Rupees
+200 Rupees
